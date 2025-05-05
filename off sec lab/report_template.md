@@ -1,1 +1,0 @@
-Placeholder content for report_template.md
