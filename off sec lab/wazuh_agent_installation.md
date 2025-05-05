@@ -1,0 +1,1 @@
+Placeholder content for wazuh_agent_installation.md

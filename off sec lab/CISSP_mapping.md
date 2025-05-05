@@ -1,0 +1,1 @@
+Placeholder content for CISSP_mapping.md
